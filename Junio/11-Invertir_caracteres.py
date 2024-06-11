@@ -27,5 +27,5 @@ palabra = str(input(''',-_/                                                 .   
 resultado = invertir_caracteres(palabra)
 
 print("\n")
-print(f"Tu palabra invertida es : {resultado} .")
+print(f"Tu palabra invertida es : {resultado}")
 print("\n")
