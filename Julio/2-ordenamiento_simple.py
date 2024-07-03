@@ -12,7 +12,7 @@ def ordenamiento_seleccion(lista):
         if menor != i: # Si menor no es el elemento default
             lista[menor], lista[i] = lista[i], lista[menor] # Intercambiamos los elementos
 
-numeros = [13, 27, 12, 66, 2, 45, 90, 10345, -1, -3, 0]
+numeros = [ 66, 45, 10345, -3, 0]
 print(f"""Esta es tu lista:
       {numeros}""")
 
